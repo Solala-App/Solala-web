@@ -5,41 +5,48 @@ body {
 
 nav {
     background-color: white;
-   }
-   .navbar-brand img {
+}
+
+.navbar-brand img {
     max-height: 50px;
-   }
-   .navbar-brand {
+}
+
+.navbar-brand {
     font-size: 24px;
     text-transform: uppercase;
     font-weight: 900;
     color: #683aa4;
-   }
-   nav ul li a {
+}
+
+nav ul li a {
     color: #a9a9a9;
     font-size: 22px;
     margin: auto 10px;
-   }
-   nav ul li a:hover {
+}
+
+nav ul li a:hover {
     color: #683aa4;
-   }
+}
 
 section {
     padding-top: 50px;
     padding-bottom: 50px;
-    }
-    section h1 {
+}
+
+section h1 {
     text-transform: uppercase;
     font-weight: 900;
     color: #683aa4;
     text-align: left;
     margin-bottom: 20px;
-   }
-   section p {
+}
+
+section p {
     font-size: 16px;
     font-weight: 300;
-   }
-   button {
+}
+   
+button {
     max-width: 50%;
     border-radius: 50px !important;
 }
@@ -48,21 +55,25 @@ section {
     justify-content: center; 
     flex-direction: column;
     display: flex;
-   }
-   #hero .img-col {
+}
+   
+#hero .img-col {
     justify-content: flex-end; 
     margin-top: 100px;
-   }
-   #hero img {
+}
+   
+#hero img {
     max-width: 130% !important;
     width: 130%;
-   }
-   #hero .card {
+}
+   
+#hero .card {
     box-shadow: 11px 7px 16px #f9f9f9;
     border: 0;
     text-align: center;
-   }
-   #hero .icon {
+}
+   
+#hero .icon {
     width: 50px;
     height: 50px;
     margin-bottom: 20px;
@@ -70,15 +81,16 @@ section {
 
 #explore .explore {
     margin-bottom: 50px;
-   }
+}
 
 #contact {
     text-align: center;
     background-color: #683aa4;
     color: white;
-   }
-   #contact h1 {
+}
+   
+#contact h1 {
     text-align: center;
     color: white;
-   }   
+}   
    
