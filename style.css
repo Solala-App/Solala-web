@@ -18,7 +18,8 @@ nav {
     color: #3E6560;
 }
 
-nav ul li a {
+nav ul li .nav-link,
+nav ul li .nav-link:visited {
     color: #3E6560;
     font-size: 22px;
     margin: auto 10px;
