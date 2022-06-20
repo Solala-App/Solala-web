@@ -4,7 +4,7 @@ body {
 }
 
 nav {
-    background-color: white;
+    background-color: #EFC7C2;
 }
 
 .navbar-brand img {
@@ -15,17 +15,17 @@ nav {
     font-size: 24px;
     text-transform: uppercase;
     font-weight: 900;
-    color: #683aa4;
+    color: #3E6560;
 }
 
 nav ul li a {
-    color: #a9a9a9;
+    color: #3E6560;
     font-size: 22px;
     margin: auto 10px;
 }
 
 nav ul li a:hover {
-    color: #683aa4;
+    color: #3E6560;
 }
 
 section {
@@ -36,7 +36,7 @@ section {
 section h1 {
     text-transform: uppercase;
     font-weight: 900;
-    color: #683aa4;
+    color: #3E6560;
     text-align: left;
     margin-bottom: 20px;
 }
@@ -85,7 +85,7 @@ button {
 
 #contact {
     text-align: center;
-    background-color: #683aa4;
+    background-color: #B65C3B;
     color: white;
 }
    
