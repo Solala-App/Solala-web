@@ -6,6 +6,7 @@ body {
 
 nav {
     background-color: #EFC7C2;
+    position: fixed;
 }
 
 .navbar-brand img {
@@ -48,7 +49,7 @@ section p {
     font-weight: 300;
 }
    
-button {
+.button-default {
     max-width: 50%;
     border-radius: 50px !important;
 }
@@ -87,19 +88,19 @@ button {
 
 #hero .button-social{
     max-width: 100%;
-    border-radius: 25px;
+    border-radius: 25px !important;
 }
 
 #hero .button-linkedin{
     max-width: 100%;
-    border-radius: 25px;
-    background-color: #0077B5;
+    border-radius: 25px !important;
+    background-color: #0077B5 !important;
 }
 
 #hero .button-github{
     max-width: 100%;
-    border-radius: 50px;
-    background-color: #6CC644;
+    border-radius: 50px !important;
+    background-color: #6CC644 !important;
 }
 
 #features .features {
