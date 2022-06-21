@@ -52,6 +52,10 @@ button {
     border-radius: 50px !important;
 }
 
+.btn-group {
+    display: flex;
+}
+
 #hero .col {
     justify-content: center; 
     flex-direction: column;
@@ -78,6 +82,23 @@ button {
     width: 50px;
     height: 50px;
     margin-bottom: 20px;
+}
+
+#hero .button-social{
+    max-width: 100%;
+    border-radius: 25px;
+}
+
+#hero .button-linkedin{
+    max-width: 100%;
+    border-radius: 25px;
+    background-color: #0077B5;
+}
+
+#hero .button-github{
+    max-width: 100%;
+    border-radius: 50px;
+    background-color: #6CC644;
 }
 
 #features .features {
