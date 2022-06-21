@@ -48,11 +48,6 @@ section p {
     font-size: 16px;
     font-weight: 300;
 }
-   
-.button-default {
-    max-width: 50%;
-    border-radius: 50px !important;
-}
 
 .btn-group {
     display: flex;
@@ -87,19 +82,19 @@ section p {
 }
 
 #hero .button-social{
-    max-width: 100%;
-    border-radius: 25px !important;
+    border-radius: 50%;
+    padding: 0.50rem 0.50rem;
 }
 
 #hero .button-linkedin{
-    max-width: 100%;
-    border-radius: 25px !important;
+    border-radius: 50%;
+    padding: 0.50rem 0.50rem;
     background-color: #0077B5 !important;
 }
 
 #hero .button-github{
-    max-width: 100%;
-    border-radius: 50px !important;
+    border-radius: 50%;
+    padding: 0.50rem 0.50rem;
     background-color: #6CC644 !important;
 }
 
