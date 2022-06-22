@@ -2,6 +2,7 @@ body {
     display: block;
     overflow-x: hidden;
     padding-top: 70px;
+    height: 100%;
 }
 
 nav {
@@ -111,6 +112,7 @@ section p {
     text-align: center;
     background-color: #B65C3B;
     color: white;
+    bottom: 0;
 }
    
 #contact h1 {
