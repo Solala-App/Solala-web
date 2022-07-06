@@ -6,7 +6,7 @@ body {
 }
 
 nav {
-    background-color: #EFC7C2;
+    background-color: #E3FFEB;
     position: fixed;
 }
 
@@ -18,18 +18,18 @@ nav {
     font-size: 24px;
     text-transform: uppercase;
     font-weight: 900;
-    color: #3E6560;
+    color: #126760;
 }
 
 nav ul li .nav-link,
 nav ul li .nav-link:visited {
-    color: #3E6560;
+    color: #126760;
     font-size: 22px;
     margin: auto 10px;
 }
 
 nav ul li a:hover {
-    color: #3E6560;
+    color: #126760;
 }
 
 section {
@@ -40,7 +40,7 @@ section {
 section h1 {
     text-transform: uppercase;
     font-weight: 900;
-    color: #3E6560;
+    color: #126760;
     text-align: left;
     margin-bottom: 20px;
 }
@@ -57,6 +57,7 @@ section p {
 .button-text{
     max-width: 50%;
     border-radius: 50px !important;
+    background-color: #EFC7C2 !important;
 }
 
 #hero .col {
@@ -110,7 +111,7 @@ section p {
 
 #contact {
     text-align: center;
-    background-color: #B65C3B;
+    background-color: #E49956;
     color: white;
     bottom: 0;
 }
